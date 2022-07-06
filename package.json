@@ -1,0 +1,20 @@
+{
+  "name": "graphql-fundamentals",
+  "version": "1.0.0",
+  "description": "repository to practice graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kateincoding/graphql-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kateincoding/graphql-fundamentals/issues"
+  },
+  "homepage": "https://github.com/kateincoding/graphql-fundamentals#readme"
+}
