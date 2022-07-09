@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "repository to practice graphql",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/kateincoding/graphql-fundamentals/issues"
   },
-  "homepage": "https://github.com/kateincoding/graphql-fundamentals#readme"
+  "homepage": "https://github.com/kateincoding/graphql-fundamentals#readme",
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.19"
+  }
 }
